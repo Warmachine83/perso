@@ -1,0 +1,8 @@
+[8244] [NRM] [Game] [External(0)] [External()] [2018-09-27T08:38:10.509Z]: #= VoiceClient: ============================Startup============================
+[8244] [NRM] [Game] [External(0)] [External()] [2018-09-27T08:38:20.249Z]: #= VoiceClient: + Starting devices
+[8244] [NRM] [Game] [External(0)] [External()] [2018-09-27T08:38:25.764Z]: #= VoiceClient: Auto-Join Enabled Flags 0000 -> 0005
+[8244] [NRM] [Game] [External(0)] [External()] [2018-09-27T08:38:25.764Z]: #= VoiceClient: Channel Enabled Flags 0000 -> 0005
+[8244] [NRM] [Game] [External(0)] [External()] [2018-09-27T08:44:14.707Z]: #= VoiceClient: Auto-Join Enabled Flags 0005 -> 0000
+[8244] [NRM] [Game] [External(0)] [External()] [2018-09-27T08:44:14.707Z]: #= VoiceClient: Channel Enabled Flags 0005 -> 0000
+[8244] [NRM] [Game] [External(0)] [External()] [2018-09-27T08:44:14.984Z]: #= VoiceClient: + Shutdown initiated
+[8244] [NRM] [Game] [External(0)] [External()] [2018-09-27T08:44:15.542Z]: #= VoiceClient: + Shutdown complete
